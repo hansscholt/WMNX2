@@ -1,0 +1,12 @@
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\bin\Debug\WORLDMAXTOOL.exe.config
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\bin\Debug\WORLDMAXTOOL.exe
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\bin\Debug\WORLDMAXTOOL.pdb
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.csproj.AssemblyReference.cache
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.MainForm.resources
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.Properties.Resources.resources
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.ReviewMission.resources
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.csproj.GenerateResource.cache
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.csproj.CoreCompileInputs.cache
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.exe
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.pdb
+C:\Users\Hans\source\repos\WMTool\WORLDMAXTOOL\obj\Debug\WORLDMAXTOOL.exe.config
