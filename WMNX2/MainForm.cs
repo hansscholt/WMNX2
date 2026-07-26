@@ -77,7 +77,7 @@ namespace WMNX2
             ckMorigin.Checked = encSave[9749] == 16;
             ckCryomiston.Checked = encSave[9750] == 16;
 
-            //File.WriteAllBytes("decoded.bin", saveFile);
+            //File.WriteAllBytes("decoded.bin", encSave);
 
             string sName = Encoding.UTF8.GetString(saveFile.SubArray(0, 8));
             string sSerial = Encoding.UTF8.GetString(encSave.SubArray(4, 24));
@@ -209,10 +209,10 @@ namespace WMNX2
 
                 if (Mission.allMissionData[i].bPass)
                 {
-                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4)] = 3;
-                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 1] = 0;
-                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 2] = 0;
-                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 3] = 0;
+                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4)] = (byte)Mission.allMissionData[i].iChallenge[0];
+                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 1] = (byte)Mission.allMissionData[i].iChallenge[1];
+                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 2] = (byte)Mission.allMissionData[i].iChallenge[2];
+                    encSave[iBaseI + (Mission.allMissionData[i].iId * 4) + 3] = (byte)Mission.allMissionData[i].iChallenge[3];
                 }
                 else
                 {

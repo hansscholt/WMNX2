@@ -10,3 +10,15 @@ C:\Users\Hans\source\repos\WMNX2\WORLDMAXTOOL\obj\Debug\NX2WORLDMAX.csproj.CoreC
 C:\Users\Hans\source\repos\WMNX2\WORLDMAXTOOL\obj\Debug\WMNX2.exe
 C:\Users\Hans\source\repos\WMNX2\WORLDMAXTOOL\obj\Debug\WMNX2.pdb
 C:\Users\Hans\source\repos\WMNX2\WORLDMAXTOOL\obj\Debug\WMNX2.exe.config
+C:\Users\Hans\source\repos\WMNX2\WMNX2\bin\Debug\WMNX2.exe.config
+C:\Users\Hans\source\repos\WMNX2\WMNX2\bin\Debug\WMNX2.exe
+C:\Users\Hans\source\repos\WMNX2\WMNX2\bin\Debug\WMNX2.pdb
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\NX2WORLDMAX.csproj.AssemblyReference.cache
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.MainForm.resources
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.Properties.Resources.resources
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.ReviewMission.resources
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\NX2WORLDMAX.csproj.GenerateResource.cache
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\NX2WORLDMAX.csproj.CoreCompileInputs.cache
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.exe
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.pdb
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Debug\WMNX2.exe.config

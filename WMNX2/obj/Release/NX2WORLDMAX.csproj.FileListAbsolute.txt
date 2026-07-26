@@ -21,3 +21,4 @@ C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Release\NX2WORLDMAX.csproj.GenerateRe
 C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Release\NX2WORLDMAX.csproj.CoreCompileInputs.cache
 C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Release\WMNX2.exe
 C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Release\WMNX2.pdb
+C:\Users\Hans\source\repos\WMNX2\WMNX2\obj\Release\WMNX2.exe.config

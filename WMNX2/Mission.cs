@@ -14,6 +14,7 @@ namespace WMNX2
         public static void ReadMission(byte[] enc)
         {
             List<MissionData> allMission = new List<MissionData>();
+            
             string[] lines = File.ReadAllLines("other/mission.txt");
             for (int i = 0; i < lines.Length; i++)
             {
@@ -40,12 +41,15 @@ namespace WMNX2
                             string sName = lines[i + 15].Replace("\t\tNAME\t\t\"", string.Empty);
                             sName = sName.Replace("\"", string.Empty);
 
+                            string sChallenge = lines[i + 24].Replace("\t\tCHALLENGE\t", string.Empty);
+
                             MissionData mAdd = new MissionData();
                             mAdd.sType = sType;
                             mAdd.iId = iId;
                             mAdd.sId = sID;
                             mAdd.sLand = sLand;
                             mAdd.sName = sName;
+                            mAdd.iChallenge = Array.ConvertAll(sChallenge.Split(' '), int.Parse);
 
                             mAdd.bClear = false;
                             mAdd.bPass = false;
@@ -75,5 +79,6 @@ namespace WMNX2
         public string sName;
         public bool bPass;
         public bool bClear;
+        public int[] iChallenge;
     }
 }
